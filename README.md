@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-**Data Scientist at Zurich North America** with ~5 years shipping production ML — and, increasingly, **production LLM/RAG and AI-agent systems**. I just finished my **Master of Computer Science (MCS) at UIUC**. Based in Chicago; interested in **data science, ML/AI engineering, and distributed-systems** roles.
+**Data Scientist at Zurich North America** with 5 years of experience shipping production ML — and, increasingly, **production LLM/RAG and AI-agent systems**. I just finished my **Master of Computer Science (MCS) at UIUC**. Based in Chicago; interested in **data science, ML/AI engineering, and distributed-systems** roles.
 
 - 🔭 At work: building a retrieval-augmented (RAG) document-understanding agent for underwriting; previously rebuilt production pricing models (Tweedie GLMs, PySpark/Databricks) used by underwriters.
 - 🧠 Focus: LLM applications, RAG, AI agents, distributed systems, and turning models into things people actually use.
