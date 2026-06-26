@@ -4,7 +4,7 @@
 
 - 🔭 At work: building a retrieval-augmented (RAG) document-understanding agent for underwriting; previously rebuilt production pricing models (Tweedie GLMs, PySpark/Databricks) used by underwriters.
 - 🧠 Focus: LLM applications, RAG, AI agents, distributed systems, and turning models into things people actually use.
-- 📫 [LinkedIn](https://www.linkedin.com/in/sean-kraemer) · seanmkraemer@gmail.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/sean-kraemer)
 
 ## Featured projects
 
